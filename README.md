@@ -1,4 +1,4 @@
-# D7041E
+# D7041E - Applied Artificial Intelligence
 Repository for the labs in the course D7041E - Applied Artificial Intelligence @ ltu.
 
 # Members
